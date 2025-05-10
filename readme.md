@@ -31,3 +31,7 @@
    Unifies everything into a reproducible, automated flow.
 
    Load model → attach hooks → profile → analyze → report.
+
+
+Arsh Kapoor
+Hooks.py - experimenting on how hooks work and what output is generated (10-05-2025)
